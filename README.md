@@ -17,7 +17,7 @@
 > Private source is available to interviewers / serious collaborators on request.
 
 **Built by [ASK Andalus](https://github.com/ahmadsk-cell)** · Not affiliated with Metadot or Mojo Helpdesk.
-
+**LinkedIN:** [Ahmad Sheikh-Khalil](https://www.linkedin.com/in/ahmad-sheikh-khalil-161402149/)
 ---
 
 ## The problem
@@ -137,6 +137,7 @@ Active product build. Core shell, Mojo discovery/settings, aging policy, multi-p
 | **Issues with this write-up** | Open an issue on this repo |
 
 **GitHub:** [ahmadsk-cell](https://github.com/ahmadsk-cell)
+**LinkedIN:** [Ahmad Sheikh-Khalil](https://www.linkedin.com/in/ahmad-sheikh-khalil-161402149/)
 
 ---
 
