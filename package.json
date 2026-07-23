@@ -1,0 +1,10 @@
+{
+  "name": "tadbir-case-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public portfolio case study for Tadbir (screenshots + write-up only — no app source)",
+  "scripts": {
+    "capture": "node scripts/capture-screens.mjs"
+  },
+  "license": "MIT"
+}
