@@ -25,6 +25,8 @@
 Many IT service desks run Mojo Helpdesk with a pile of one-off scripts (often in VS Code): auto-acks, aging tags, weekly Excel reports, KB drafts, staff-note helpers. Those scripts work — until keys live in files, every org’s queue/tag IDs are different, and nobody wants to maintain Python glue forever.
 
 **Tadbir** replaces that workflow with a single web app managers and agents actually use.
+> *Tadbir* (تدبير) means deliberate administration — the product thesis is that good operations are decided in advance, not improvised at the queue.
+
 
 ## What Tadbir does
 
